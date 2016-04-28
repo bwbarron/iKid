@@ -375,10 +375,10 @@ pants</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="s6g-2i-0Z3">
-                                <rect key="frame" x="284" y="290" width="57272" height="0.0"/>
+                                <rect key="frame" x="284" y="290" width="191" height="61"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rmA-2Q-ybe">
-                                        <rect key="frame" x="0.0" y="0.0" width="57272" height="0.0"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="191" height="61"/>
                                         <string key="text">A man in a wheelchair 
 just stole my camouflage
 jacket.</string>
